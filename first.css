@@ -1,0 +1,84 @@
+
+.first{
+    margin-left: 70%;
+    
+}
+.toptop{
+    text-align: left;
+    margin-right:80%;
+    
+}
+    
+    
+
+
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    
+
+}
+li{
+    float: inline-start;
+}
+li a{
+display: block;
+color: green;
+text-align: center;
+padding: 16px;
+text-decoration: none;
+display: grid;
+top:40%;
+}
+li a:hover{
+    background-color: rgb(208, 228, 29);
+}
+
+.homes{
+    font-style: italic;
+
+}
+
+.yr{
+    
+    
+}
+.house{
+border-color: yellow;
+border-width: 5px;
+border-radius: 10%;
+
+}
+.rentnow{
+    color: violet;
+}
+
+.rentyour{
+color: mediumvioletred;
+}
+
+.begin{
+    color: chocolate;
+}
+.looking{
+    background-color: yellow;
+}
+.with{
+    background-color: aqua;
+}
+
+
+.weMake{
+    color: blue;
+    display: flex;
+    text-align: left;
+}
+
+.continue{
+    color: chartreuse;
+}
+.see{
+    font-size: large;
+}

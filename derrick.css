@@ -1,0 +1,172 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #fff;
+
+}
+.logo{
+    color:green;
+}
+
+.your{
+padding: 50px;
+text-align: left;
+color:green;
+justify-content: center;
+gap: 20px;    
+}
+
+.your .we{
+    color: black;
+}
+.buttons{
+    margin-top: 20px;
+    
+}
+.firstB,.secondB{
+    padding:10px 20px;
+    border: none;
+    color: green;
+    cursor: pointer;
+    
+}
+.firstB{
+    background: green;
+    border-radius: 20px;
+    color: white;
+}
+.secondB{
+    background: white;
+    border: 2px solid green;
+    border-radius: 20px;
+    color: green;
+
+}
+.house{
+    border-radius: 20px;
+    width: 300px;
+    margin-left: 50%;
+    
+}
+.text{
+    text-align: justify;
+    
+}
+.beginAwe{
+    color: green;
+   
+    
+}
+ 
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+ }
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.Journey{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+
+}
+.image img {
+
+    width: 300px;
+    border-radius: 10px;
+}
+.cont{
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+.serv{
+
+    background:#e8f5e9;
+    padding: 50px;
+}
+.serHead{
+    color: green;
+}
+
+.serviceBoxes{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    height: 300px;
+    
+
+}
+.service{
+    border-radius: 15px;
+    background:green;
+    padding: 20px;
+    width: 200px;
+    color: white;
+}
+.certo{
+    border-radius: 10px;
+    width: 100px;
+}
+.leaf{
+    border-radius: 10px;
+    width: 90px;
+}
+.padlock{
+    border-radius: 10px;
+    width: 80px;
+}
+.hh{
+    color: green;
+}
+.Reviews{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+
+}
+.review{
+    border-radius: 15px 50px;
+    border: 3px solid green;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: green;
+}
+.downSection{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+.RH{
+    text-align: justify;
+}
+.R{
+    color: green;
+}
+.H{
+    color: green;
+}
+li{
+    list-style: none;
+    height: 30px;
+}
+.footerContent{
+    background: #222;
+    color: white;
+    padding: 20px;
+}
